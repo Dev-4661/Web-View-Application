@@ -16,5 +16,3 @@ To use the WebView-Application, follow these steps:
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine.
    
-   ```bash
-   git clone https://github.com/Abhi-vish/WebView-Application.git
